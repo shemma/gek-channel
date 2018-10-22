@@ -1,0 +1,27 @@
+{
+  "name": "gek-channel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.7.0",
+    "npm": "5.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shemma/gek-channel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shemma/gek-channel/issues"
+  },
+  "homepage": "https://github.com/shemma/gek-channel#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
